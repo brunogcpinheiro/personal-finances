@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap');
+
+$background: #F5F7FB;
+$light-gray: #A6ADC6;
+$accent: #5568FE;
+
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family: Quicksand, cursive, sans-serif;
+}
+
+body {
+  background-color: $background;
+}
